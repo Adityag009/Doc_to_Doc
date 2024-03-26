@@ -1,0 +1,8 @@
+streamlit
+python-docx
+beautifulsoup4
+markdown
+openai
+python-dotenv
+tempfile
+python-docx
